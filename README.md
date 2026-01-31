@@ -12,7 +12,7 @@ A custom control surface interface for **TouchOSC** designed to control **Ableto
 
 Before using this control surface, ensure you have the following installed:
 
-1.  **[TouchOSC](https://hexler.net/touchosc)** is installed on your tablet/phone and desktop editor.
+1.  **[TouchOSC](https://hexler.net/touchosc)** ($19.99) is installed on your tablet/phone and desktop editor.
 2.  **Ableton Live**.
 3.  **[AbletonOSC](https://github.com/ideoforms/AbletonOSC)**: This is required to handle the OSC communication.
 
@@ -45,7 +45,7 @@ Before using this control surface, ensure you have the following installed:
 ![alt text](/img/2.png)
 4.  Set up the **MIDI Connection**:
     * Select your TouchOSC Bridge or MIDI interface. On Android, you can choose `MIDI option` directly in the notification bar when plug it in to your computer.
-    * Add TouchOSC Bridge or MIDI interface to the **MIDI Input** section.<br>
+    * Add TouchOSC Bridge or MIDI interface to the **MIDI** section.<br>
 ![alt text](/img/3.png)<br>
 ![alt text](/img/4.png)
 
