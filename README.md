@@ -62,6 +62,7 @@ Before using this control surface, ensure you have the following installed:
     * EQ adjustment & FX for 2 decks.
 ![alt text](/img/5.png)
 ![alt text](/img/6.png)
+![alt text](/img/7.png)
 
 ## 🔧 Troubleshooting
 
