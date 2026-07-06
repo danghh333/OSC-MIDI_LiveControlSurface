@@ -36,5 +36,10 @@ class Custom_Script(ControlSurface):
         self.show_message('Custom_Script loaded')
         self.log_message('Custom_Script: setup complete')
 
+    def disconnect(self):
+        self.show_message('Custom_Script disconnected')
+        self.log_message('Custom_Script: disconnecting and cleaning up')
+        super(Custom_Script, self).disconnect()
+
 def create_instance(c_instance):
     return Custom_Script(c_instance)
