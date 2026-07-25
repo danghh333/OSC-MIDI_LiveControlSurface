@@ -27,7 +27,7 @@ Designed to control **Ableton Live** for DJing (Madeon launchpad DJ style) inclu
 1.  Open **Ableton Live**.
 2.  Go to **Preferences** > **Link/Tempo/MIDI**.
 3.  Add `AbletonOSC` as a Control Surface.
-4.  Add `Custom_Script` as a Control Surface and select Input and Output: `"TouchOSC Bridge"` or `"MIDI function"` based on your connection method.
+4.  Add `Custom_Script` as a Control Surface and select Input and Output: `"TouchOSC Bridge"` or `"MIDI function"` based on your connection method.<br>
 ![alt text](./img/1.png)
 5.  Open the provided template file:
     * Go to `File` > `Open Live Set...`
