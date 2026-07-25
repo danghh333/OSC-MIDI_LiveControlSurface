@@ -28,7 +28,7 @@ Designed to control **Ableton Live** for DJing (Madeon launchpad DJ style) inclu
 2.  Go to **Preferences** > **Link/Tempo/MIDI**.
 3.  Add `AbletonOSC` as a Control Surface.
 4.  Add `Custom_Script` as a Control Surface and select Input and Output: `"TouchOSC Bridge"` or `"MIDI function"` based on your connection method.
-![alt text](/img/1.png)
+![alt text](./img/1.png)
 5.  Open the provided template file:
     * Go to `File` > `Open Live Set...`
     * Select `Live Template/Template.als` from this repository.
@@ -42,12 +42,12 @@ Designed to control **Ableton Live** for DJing (Madeon launchpad DJ style) inclu
     * **Host (Send Port)**: IP address of your computer running Live (e.g., `192.168.x.x`). You can find it by typing `ipconfig` in terminal. 
     * **Port (Outgoing)**: `11000` (Default for AbletonOSC).
     * **Port (Incoming)**: `11001` (Default for AbletonOSC).
-![alt text](/img/2.png)
+![alt text](./img/2.png)
 4.  Set up the **MIDI Connection**:
     * Select your TouchOSC Bridge or MIDI interface. On Android, you can choose `MIDI option` directly in the notification bar when plug it in to your computer.
     * Add TouchOSC Bridge or MIDI interface to the **MIDI** section.<br>
-![alt text](/img/3.png)<br>
-![alt text](/img/4.png)
+![alt text](./img/3.png)<br>
+![alt text](./img/4.png)
 
 ## Features
 * **Track Header Color Sync**:
@@ -60,6 +60,6 @@ Designed to control **Ableton Live** for DJing (Madeon launchpad DJ style) inclu
     * Trigger clips on your surface control via MIDI.
 * **Drum Pads and Piano Keys**:
     * From TouchOSC default templates.
-![alt text](/img/5.png)
-![alt text](/img/6.png)
-![alt text](/img/7.png)
+![alt text](./img/5.png)
+![alt text](./img/6.png)
+![alt text](./img/7.png)
