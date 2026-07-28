@@ -19,8 +19,8 @@ Designed to control **Ableton Live** for DJing (Madeon launchpad DJ style) inclu
 
 ### 1. Install the Remote Script
 1.  Download and install **AbletonOSC** and **Custom_Script** into your Ableton Remote Scripts folder.
-    * *Windows*: `\ProgramData\Ableton\Live x.x\Resources\MIDI Remote Scripts\`
-    * *Mac*: `/Applications/Ableton Live x.x.app/Contents/App-Resources/MIDI Remote Scripts/`
+    * *Windows*: `C:\Users\[username]\Documents\Ableton\User Library\Remote Scripts`
+    * *Mac*: `Macintosh HD/Users/[username]/Music/Ableton/User Library/Remote Scripts`
 2.  Restart Live.
 
 ### 2. Configure Ableton Live
