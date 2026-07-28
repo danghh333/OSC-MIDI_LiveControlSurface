@@ -1,13 +1,13 @@
 # TouchOSC Control Surface for Ableton Live
 
-Designed to control **Ableton Live** for DJing (Madeon launchpad DJ style) including clip launch, mixer, drum pads, BPM control and some free buttons (Control Resolume Arena) via OSC and MIDI
+Designed to control **Ableton Live** for DJing (Madeon launchpad DJ style) including clip launch, mixer, drum pads, BPM control and some free buttons (e.g., Resolume Arena) via OSC and MIDI
 
 ## Repository Structure
 
 * **`ControlSurface.tosc`**: The layout file for the TouchOSC app.
 * **`Live Template`**: Live project template for DJing.
     * `Template.als`: The Live Set file.
-* **`Custom_Script`**: Custom Python control surface scripts for Live.
+* **`Custom_Script`**: Python control surface scripts for Live.
 
 ## Prerequisites
 
